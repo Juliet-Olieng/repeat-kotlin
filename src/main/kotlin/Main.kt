@@ -25,8 +25,8 @@ fun sentence(name:String,age:Int):String{
     return statement
 }
 //question3
-fun length(name:String):String{
-    return name
+fun length(name:String):Int{
+    return name.length
 }
 //question4
 fun name(givenName:String){
